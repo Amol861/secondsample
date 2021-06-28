@@ -1,0 +1,462 @@
+body
+{
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  color: white;
+}
+
+.navbar
+{
+
+  color: #cf2a27;
+  margin-left: 0;
+  margin-right: 0;
+}
+.first
+{
+  background-color: #cf2a27;
+  height: 500px;
+}
+.good
+{
+  padding-left: 800px;
+}
+.good:hover
+{
+  color: blue;
+
+}
+.tabs
+{
+  color: blue;
+}
+.tabs:hover
+{
+  color: blue;
+}
+.about
+{
+  color: white;
+  font-weight: normal;
+  font-family: 'Montserrat';
+  padding-right: 1000px;
+  padding-top: 30px;
+}
+.vl
+{
+  border-left: 6px solid white;
+height: 200px;
+}
+.college
+{
+height: 200px;
+  width: 25%;
+  float: right;
+margin-top: 30px;
+background-color:  #cf2a27;
+border-radius: 90%;
+margin-right: 120px;
+
+}
+.aboutus
+{
+  background-color:  #cf2a27;
+  padding-top: 80px;
+}
+.cool
+{
+  border-radius: 90%;
+}
+.course
+{
+  background-color: white;
+}
+.courses
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  margin-top: 10px;
+
+}
+.cse
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.comps
+{
+  width: 60%;
+
+  margin-top: 50px;
+  margin-left: 20px;
+  padding-left: 20px;
+
+}
+.its
+{
+  width: 60%;
+
+  margin-top: 50px;
+padding-left: 20px;
+
+}
+.ite
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.eces
+{
+  width: 60%;
+
+  margin-top: 50px;
+  height: 170px;
+  margin-right: 10px;
+padding-left: 20px;
+
+}
+.ece
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.second
+{
+  margin-left: 50px;
+}
+.eees
+{
+  width: 40%;
+
+  margin-top: 50px;
+  height: 140px;
+  margin-right: 10px;
+padding-left: 40px;
+margin-left: 20px;
+
+}
+.eee
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 30px;
+  margin-left: 20px;
+}
+.third
+{
+  margin-left: 200px;
+}
+.ices
+{
+  width: 40%;
+
+  margin-top: 50px;
+  height: 140px;
+  margin-right: 200px;
+padding-left: 10px;
+margin-left: 20px;
+padding-right: 30px;
+
+
+}
+.ice
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.fees
+{
+  background-color: #cf2a27;
+  height: 450px;
+}
+.fstr
+{
+  font-weight: normal;
+  color:  white;
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  margin-top: 20px;
+}
+.clfs
+{
+  margin-top: 30px;
+  border-style: solid black;
+  border-width: thick;
+  margin-left: 450px;
+}
+.teacher
+{
+  background-color: white;
+}
+.staff
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  margin-top: 10px;
+}
+.hods1
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.hod1
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.fourth
+{
+  margin-left: 70px;
+  margin-top: 30px;
+}
+.hods2
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.hod2
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.hod3
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.hods3
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+div
+{
+  width: 100%;
+}
+.hods4
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.hod4
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.fifth
+{
+  margin-left: 70px;
+  margin-top: 40px;
+}
+.hod5
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.hods5
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.hod6
+{
+  border-radius: 90%;
+  height: 250px;
+}
+.hods6
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 10px;
+
+}
+.line
+{
+  width: 2%;
+    border-style: dotted;
+  border-width: thick;
+    border-color: #cf2a27;
+    border-bottom: 0px;
+    margin-left: 700px;
+}
+.gall
+{
+
+  font-weight: normal;
+  color:  white;
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  margin-top: 10px;
+
+}
+.gallery
+{
+  background-color: #cf2a27;
+  height: 1000px;
+}
+.fede
+{
+  font-weight: normal;
+  color:  white;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+padding-right: 60px;
+  padding-right: 30px;
+  margin-left: 170px;
+  margin-top: 30px;
+
+}
+.fest
+{
+  width: 25%;
+  float: right;
+  margin-right: 150px;
+  margin-top: 30px;
+  border-style: solid white;
+  border-width: thick;
+}
+.hack
+{
+  float: left;
+  width: 25%;
+  margin-top: 200px;
+  margin-left: 170px;
+
+}
+.hacks
+{
+  font-weight: normal;
+  color:  white;
+  font-family: 'Montserrat';
+  font-style: italic;
+  margin-top: 230px;
+  margin-left: 500px;
+  padding-left: 90px;
+  margin-right: 100px;
+  padding-right: 100px;
+}
+.muns
+{
+  font-weight: normal;
+  color:  white;
+  font-family: 'Montserrat';
+  font-style: italic;
+  padding-top: 20px;
+padding-right: 60px;
+  padding-right: 30px;
+  margin-left: 170px;
+  margin-top: 250px;
+
+}
+.mun
+{
+  width: 25%;
+  float: right;
+  margin-right: 120px;
+  margin-top: 200px;
+  border-style: solid white;
+  border-width: thick;
+}
+.contact-me
+{
+  background-color: white;
+}
+.last
+{
+  font-weight: normal;
+  color:  #cf2a27;
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  margin-top: 10px;
+}
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Georgia;
+  color: white;
+  font-size: 20px;
+  background: #cf2a27;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  float:left;
+  margin-right: 300px;
+margin-bottom: 100px;
+margin-left: 350px;
+margin-top: 30px;
+}
+
+.btn:hover {
+  background: #fa8989;
+  text-decoration: none;
+}
+.lasts
+{
+  font-weight: normal;
+  font-style: italic;
+  font-family: 'Montserrat';
+  color: #cf2a27;
+  margin-left: 300px;
+  margin-top: 100px;
+}
